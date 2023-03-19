@@ -501,7 +501,7 @@ DOMAIN,dmr.nosdn.127.net,REJECT
 DOMAIN,pr.nss.netease.com,REJECT
 DOMAIN,ip.ws.126.net,REJECT
 DOMAIN,data.live.126.net,REJECT
-DOMAIN,img1.126.net:80,REJECT
+DOMAIN,img1.126.net,REJECT
 DOMAIN,open.163.com,REJECT
 DOMAIN,pingma.qq.com,REJECT
 DOMAIN,vdn.vzuu.com,REJECT
