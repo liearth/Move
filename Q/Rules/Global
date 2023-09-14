@@ -51,6 +51,7 @@ HOST-SUFFIX,whatsapp.net,Global
 HOST-SUFFIX,github.com,Global
 HOST-SUFFIX,github.io,Global
 HOST-SUFFIX,githubusercontent.com,Global
+HOST-SUFFIX,githubassets.com,Global
 # > Google
 HOST-SUFFIX,appspot.com,Global
 HOST-SUFFIX,blogger.com,Global
