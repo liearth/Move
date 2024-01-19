@@ -8,19 +8,6 @@ HOST,s3-ap-southeast-2.amazonaws.com,Global
 # > Akamai
 HOST,a248.e.akamai.net,Global
 HOST,a771.dscq.akamai.net,Global
-# > Crypto
-HOST-SUFFIX,aex.com,Global
-HOST-SUFFIX,bibox.com,Global
-HOST-SUFFIX,binance.cc,Global
-HOST-SUFFIX,binance.com,Global
-HOST-SUFFIX,bitcointalk.org,Global
-HOST-SUFFIX,bitfinex.com,Global
-HOST-SUFFIX,bitmex.com,Global
-HOST-SUFFIX,gate.io,Global
-HOST-SUFFIX,huobi.com,Global
-HOST-SUFFIX,okex.com,Global
-HOST-SUFFIX,uniswap.org,Global
-HOST-SUFFIX,zb.com,Global
 # > Discord
 HOST-SUFFIX,discord.com,Global
 HOST-SUFFIX,discordapp.com,Global
@@ -105,20 +92,6 @@ HOST-SUFFIX,pximg.net,Global
 HOST-SUFFIX,redd.it,Global
 HOST-SUFFIX,reddit.com,Global
 HOST-SUFFIX,redditmedia.com,Global
-# > Telegram
-HOST-SUFFIX,telegra.ph,Global
-HOST-SUFFIX,telegram.org,Global
-IP-CIDR,91.108.4.0/22,Global
-IP-CIDR,91.108.8.0/22,Global
-IP-CIDR,91.108.12.0/22,Global
-IP-CIDR,91.108.16.0/22,Global
-IP-CIDR,91.108.20.0/22,Global
-IP-CIDR,91.108.56.0/22,Global
-IP-CIDR,95.161.64.0/20,Global
-IP-CIDR,149.154.160.0/20,Global
-IP6-CIDR,2001:b28:f23d::/48,Global
-IP6-CIDR,2001:b28:f23f::/48,Global
-IP6-CIDR,2001:67c:4e8::/48,Global
 # > Twitter
 HOST-SUFFIX,pscp.tv,Global
 HOST-SUFFIX,periscope.tv,Global
@@ -527,11 +500,6 @@ IP-CIDR,103.102.166.0/24,Global
 IP-CIDR,185.15.56.0/22,Global
 IP-CIDR,198.35.26.0/23,Global
 IP-CIDR,208.80.152.0/22,Global
-# > Telegram
-HOST-SUFFIX,t.me,Global
-HOST-SUFFIX,tdesktop.com,Global
-HOST-SUFFIX,telegram.me,Global
-HOST-SUFFIX,telesco.pe,Global
 # > Others
 HOST-SUFFIX,noxinfluencer.com,Global
 HOST-SUFFIX,smartmailcloud.com,Global
