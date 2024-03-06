@@ -1,13 +1,14 @@
 # > Crypto
-HOST-SUFFIX,aex.com,Global
-HOST-SUFFIX,bibox.com,Global
-HOST-SUFFIX,binance.cc,Global
-HOST-SUFFIX,binance.com,Global
-HOST-SUFFIX,bitcointalk.org,Global
-HOST-SUFFIX,bitfinex.com,Global
-HOST-SUFFIX,bitmex.com,Global
-HOST-SUFFIX,gate.io,Global
-HOST-SUFFIX,huobi.com,Global
-HOST-SUFFIX,okex.com,Global
-HOST-SUFFIX,uniswap.org,Global
-HOST-SUFFIX,zb.com,Global
+HOST-SUFFIX,aex.com,Crypto
+HOST-SUFFIX,bibox.com,Crypto
+HOST-SUFFIX,binance.cc,Crypto
+HOST-SUFFIX,binance.com,Crypto
+HOST-SUFFIX,binance.info,Crypto
+HOST-SUFFIX,bitcointalk.org,Crypto
+HOST-SUFFIX,bitfinex.com,Crypto
+HOST-SUFFIX,bitmex.com,Crypto
+HOST-SUFFIX,gate.io,Crypto
+HOST-SUFFIX,huobi.com,Crypto
+HOST-SUFFIX,okex.com,Crypto
+HOST-SUFFIX,uniswap.org,Crypto
+HOST-SUFFIX,zb.com,Crypto
