@@ -2,7 +2,7 @@
 # 片段文件将保存在 Quantumult X 目录下的 Profiles 子目录中。
 # 样例可参见 https://raw.githubusercontent.com/crossutility/Quantumult-X/master/sample-import-rewrite.snippet
 
-hostname = auth.aliyundrive.com, *.v2ex.com
+hostname = auth.aliyundrive.com, *.v2ex.com, *.y.qq.com
 
 #阿里云盘签到cookie
 ^https:\/\/auth.aliyundrive.com\/v2\/account\/token url script-response-body https://raw.githubusercontent.com/lowking/Scripts/master/ali/aliYunPanCheckIn.js
@@ -16,5 +16,3 @@ hostname = auth.aliyundrive.com, *.v2ex.com
 # 2024-5-2
 https://c6.y.qq.com/shop/fcgi-bin/fcg_get_order? url script-request-header https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js
 https://u6.y.qq.com/cgi-bin/musics.fcg? url script-request-header https://raw.githubusercontent.com/WowYiJiu/Personal/main/Script/qqMusic.js
-
-hostname = *.y.qq.com
