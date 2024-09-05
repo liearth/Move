@@ -840,3 +840,22 @@ host, janapi.jd.com, reject
 host, wqs11.jd.com, reject
 host, xlog.jd.com, reject
 host, uranus.jd.com, reject
+
+#鳳凰網
+host-suffix, deliver.ifeng.com, reject
+host-suffix, newad.ifeng.com, reject
+host, ax.ifeng.com, reject
+host, bd3rd.ifeng.com, reject
+host, bdmap1.ifeng.com, reject
+host, cvf.ifeng.com, reject
+host, err.ifengcloud.ifeng.com, reject
+host, ifengad.3g.ifeng.com, reject
+host, noscreenplz2.ifeng.com, reject
+host, qcvf.ifeng.com, reject
+host, stadig.ifeng.com, reject
+host, stadig0.ifeng.com, reject
+host, ztyumn.ifeng.com, reject
+host, support.iclient.ifeng.com, reject
+host, bdfpbimg.ifengimg.com, reject
+host, c0.ifengimg.com, reject
+host, c1.ifengimg.com, reject
